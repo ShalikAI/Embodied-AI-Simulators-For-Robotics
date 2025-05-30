@@ -17,7 +17,8 @@ Robotic Simulators for Embodied AI Research.
    - IssacGym [[code]](https://github.com/isaac-sim/IsaacGymEnvs) [[paper]]() [[video]]() [[website]](https://developer.nvidia.com/isaac-gym)
    - RLBench [[code]](https://github.com/stepjam/RLBench) [[paper]]() [[video]]() [[website]](https://sites.google.com/view/rlbench)
    - SoftGym [[code]](https://github.com/Xingyu-Lin/softgym) [[paper]](https://arxiv.org/pdf/2011.07215) [[video]]() [[website]](https://sites.google.com/view/softgym/home)
-   - RoboThor [[code]](https://github.com/allenai/robothor-challenge) [[paper]]() [[video]]() [[website]]() 
+   - RoboThor [[code]](https://github.com/allenai/robothor-challenge) [[paper]]() [[video]]() [[website]]()
+   - AllenAct [[code]](https://github.com/allenai/allenact) [[paper]]() [[video]]() [[website]]()
 - 2021
    - iGibson [[code]](https://github.com/StanfordVL/iGibson) [[paper]]() [[video]]() [[website]]()
    - MetaWorld [[code]](https://github.com/Farama-Foundation/Metaworld) [[paper]](https://arxiv.org/pdf/1910.10897) [[website]](https://meta-world.github.io/)
@@ -33,6 +34,7 @@ Robotic Simulators for Embodied AI Research.
    - RoboCasa [[code]](https://github.com/robocasa/robocasa) [[paper]]() [[video]]() [[website]]()
    - Gymnasium [[code]](https://github.com/Farama-Foundation/Gymnasium) [[paper]](https://arxiv.org/abs/2407.17032) [[website]](https://gymnasium.farama.org/) 
    - Genesis [[code]](https://github.com/Genesis-Embodied-AI/Genesis) [[paper]]() [[video]]() [[website]](https://genesis-embodied-ai.github.io/)
+   - Procthor-rl [[code]](https://github.com/allenai/procthor-rl) [[paper]]() [[video]]() [[website]]() 
    
 - 2025
    - KSim [[code]](https://github.com/kscalelabs/ksim) [[paper]]() [[video]]() [[website]](https://www.kscale.dev/)
