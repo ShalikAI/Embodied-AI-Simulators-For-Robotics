@@ -39,3 +39,4 @@ Robotic Simulators for Embodied AI Research.
 - 2025
    - KSim [[code]](https://github.com/kscalelabs/ksim) [[paper]]() [[video]]() [[website]](https://www.kscale.dev/)
    - ManiSkill3 [[code]](https://github.com/haosulab/ManiSkill) [[paper]](https://arxiv.org/abs/2410.00425) [[website]](https://www.maniskill.ai/)
+   - EmbodiedGen [[code]](https://github.com/HorizonRobotics/EmbodiedGen) [[paper]]() [[website]]() 
